@@ -2,3 +2,7 @@ apartament|ap|apt|apart
 birou
 lotul
 sală|sala
+bloc|bl|blc
+casa
+vila
+cladire
